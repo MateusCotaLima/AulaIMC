@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+#caixas {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
+#edtPeso, #edtAltura{
+    padding: 10px;
+    margin-top: 10px;
+    width: 20%;
+}
+
+#btnCalcula{
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
